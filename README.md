@@ -1,2 +1,2 @@
 # SparseESN
-Code for SPARCE
+Code for SPARCE, written by Luca Manneschi
